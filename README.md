@@ -10,4 +10,5 @@ for this reason some lemmas do not use pattern matching but a custom type
 [too](String/Properties.agda#L14-L30), but are not required for the proof.
 
 ## Requirements
-**Agda** (agda-stdlib is not required).
+- **Agda**
+Note: agda-stdlib is not required.
