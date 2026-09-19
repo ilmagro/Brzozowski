@@ -11,4 +11,5 @@ for this reason some lemmas do not use pattern matching but a custom type
 
 ## Requirements
 - **Agda**
+
 Note: agda-stdlib is not required.
