@@ -1,6 +1,6 @@
 ## Summary
-The goal of this repository is to prove the [soundness](Brzozowski.agda#L169-L171) and
-the [completeness](Brzozowski.agda#L173-L175) of the Brzozowski derivative in Agda.
+The goal of this repository is to prove the [**soundness**](Brzozowski.agda#L169-L171) and
+the [**completeness**](Brzozowski.agda#L173-L175) of the **Brzozowski derivative** in Agda.
 The proof is generalized on types on which decidable equality is defined (e.g. `Nat`, `Char`).
 Furthermore, the proof is cubical-compatible and
 for this reason some lemmas do not use pattern matching but a custom type
